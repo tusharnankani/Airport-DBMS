@@ -27,3 +27,5 @@ These steps are briefly described in [this PDF](<documentation/(E)ER-mapping-to-
 -   Mapping the above ER Diagram to a Relational Schema
 
 ![relational-schema](documentation/Relational_Schema.png)
+
+Built using [draw.io](draw.io).
